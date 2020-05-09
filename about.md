@@ -1,6 +1,7 @@
 ---
 layout: page
-title: my web page
+title: about 
 ---
 
 # I love her
+The community was interested on her
