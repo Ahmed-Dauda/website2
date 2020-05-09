@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default 
 title: About 
 ---
-#am happy or am fine dear
+#am happy!
+or am fine dear
 can we be friends 
 hookjjhhggfggg
 ffhkkkftuugggggggtf
