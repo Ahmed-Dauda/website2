@@ -1,1 +1,6 @@
+--- # Indented Block
+   name: John Smith
+   age: 33
 
+--- # Inline Block
+ {name: John Smith, age: 33}
