@@ -1,8 +1,8 @@
 ---
-layout: default 
-title: About 
+layout: "default"
+title: "About"
 ---
-#am happy!
+#am happy!<br>
 or am fine dear
 can we be friends 
 hookjjhhggfggg
