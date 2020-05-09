@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 
-author:
-facebook:
-twitter: 
-
+title: About 
 ---
 #am happy or am fine dear
 can we be friends 
+hookjjhhggfggg
+ffhkkkftuugggggggtf
+hhhiihgffiihfdffffg
+iijhhjjjjhjjhhhhjhj
